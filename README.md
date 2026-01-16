@@ -69,6 +69,12 @@ LLM_MODEL=llama-3.3-70b-versatile
 4. Run Application
 Bash
 streamlit run app.py
+
+
+2. Working
+
+<img width="1860" height="871" alt="Screenshot 2026-01-16 134234" src="https://github.com/user-attachments/assets/2de0af4b-2417-45fc-9771-08f62d2b795c" />
+
 🛠️ Key Features (Addressing Feedback)
 Modular Codebase: Logic is decoupled from the UI. For instance, changing the embedding model only requires a change in faiss_index.py, not the whole app.
 
