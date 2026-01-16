@@ -27,6 +27,7 @@ GA02_Hybrid_RAG/
 ├── app.py              # Streamlit Frontend & Orchestration
 ├── .env                # API Keys and configuration (secret)
 └── README.md           # Documentation & Design Rationale
+
 🏗️ Technical Architecture
 1. Ingestion Pipeline
 Documents are loaded via core/loader.py, converted into UnifiedDocument objects, and then chunked by core/processor.py using RecursiveCharacterTextSplitter. These chunks are converted into 384-dimensional embeddings using sentence-transformers and stored in a FAISS vector database.
