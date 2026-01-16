@@ -69,6 +69,8 @@ LLM_MODEL=llama-3.3-70b-versatile
 4. Run Application
 
 streamlit run app.py
+<img width="1860" height="871" alt="Screenshot 2026-01-16 134234" src="https://github.com/user-attachments/assets/f7f34457-528f-4fa4-b9cd-2290ce404416" />
+
 
 
 
