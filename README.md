@@ -67,8 +67,9 @@ GROQ_API_KEY=your_groq_api_key
 TAVILY_API_KEY=your_tavily_api_key
 LLM_MODEL=llama-3.3-70b-versatile
 4. Run Application
-Bash
+
 streamlit run app.py
+
 
 
 🛠️ Key Features (Addressing Feedback)
