@@ -103,3 +103,6 @@ Answer Relevance: Does the response directly address the user's query?
 * **Summarization**: ✅ (Implemented in `summarizer.py`)
 
 **Your code and documentation are now fully aligned with the problem statement. Would you like me to generate a `requirements.txt` to complete the package?**
+
+
+## VIdeo link :https://drive.google.com/file/d/1-iwQGujZ1o3L4otU4jSgkQc_hrDMH5ev/view?usp=sharing
